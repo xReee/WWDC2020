@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImageReference</key>
+	<string>cover.png</string>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>com.example.PlaygroundBook</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios-current</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>Name</key>
+	<string>AI for Games by Renata</string>
+	<key>SupportsDarkMode</key>
+	<true/>
+	<key>SwiftVersion</key>
+	<string>5.1</string>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array/>
+	<key>UserModuleMode</key>
+	<string>Full</string>
+	<key>Version</key>
+	<string>7.0</string>
+</dict>
+</plist>
