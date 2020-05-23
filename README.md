@@ -1,7 +1,10 @@
 # Welcome to my WWDC20 playground
 
 This is my playground, the idea is to explain AI for Games in a semple way, hope you like 😁
+
 🛠 I'm currently translating it to portuguese...
+
+[Demo](https://www.youtube.com/watch?v=fZ3ilbJx5_8)
 
 
 ![](cover.png)
